@@ -1,7 +1,9 @@
 Track your Github project statistics with time
 ----------------------------------------------
 
-`github_research` is a simple web applicaiton that allows you to follow your favourite github project and see how it is doing over time.
+**Warning**: Not ready yet! I'll remove this message when this code is ready to use.
+
+`github_track_repo` is a simple web applicaiton that allows you to follow your favourite github project and see how it is doing over time.
 
 Project
 -------
@@ -24,7 +26,6 @@ stargazers_count
 forks_count
 open_issues_count
 fork
-open_issue
 ```
 
 The parameter names are self explainatory. Infact since the data is pulled from the Github API itself the terminology and names of these parameters are exactly same as those specified in Github API v3 (Repos)
